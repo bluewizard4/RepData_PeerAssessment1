@@ -1,5 +1,6 @@
-Peer Assessment One
-===================
+
+# Peer Assessment One
+
 
 Download, unzip and then read the given data.
 ```{r}
